@@ -1,2 +1,2 @@
 # Git_Course
-##learining Git
+## learining Git
